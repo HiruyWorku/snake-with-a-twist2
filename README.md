@@ -1,4 +1,4 @@
-# Snake with a Twist 2
+# Snake with a Twist-2
 
 A modern take on the classic Snake game, featuring exciting twists that add new challenges and enhance the gameplay experience.
 
